@@ -1,2 +1,1 @@
-proxycheck
-geoip2
+mcstatus
